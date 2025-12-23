@@ -35,3 +35,21 @@
 .item4{
     grid-area:footer;
 }*/
+.box
+{
+    height:100px;
+    weight:100%;
+    background-color:green;
+}
+
+@media(min-width:768px){
+    .box{
+       background-color:yellow; 
+    }
+}
+@media(min-width:1204px)
+{
+    .box{
+        background-color:red;
+    }
+}
