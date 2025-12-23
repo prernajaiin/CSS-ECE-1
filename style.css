@@ -57,11 +57,6 @@ header input {
 
 }
 
-.card img:hover {
-    
-}
-
-
 @media (max-width: 1200px) {
     .gallery {
         column-count: 3;
